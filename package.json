@@ -94,7 +94,7 @@
   "dependencies": {
     "drizzle-orm": "^0.45.4",
     "node-sqlite3-wasm": "^0.8.61",
-    "pdfkit": "^0.20.2",
+    "pdfkit": "^0.21.0",
     "playwright": "1.65.1",
     "tree-sitter": "file:vendor/tree-sitter-0.21.1-node24.tgz",
     "tree-sitter-c": "0.21.4"
